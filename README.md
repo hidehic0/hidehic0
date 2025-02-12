@@ -11,5 +11,5 @@
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hidehic0)](https://github.com/ryo-ma/github-profile-trophy)
-
+[![Profile details card](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hidehic0&theme=transparent)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 ![](https://raw.githubusercontent.com/hidehic0/hidehic0/output/github-contribution-grid-snake.svg)
