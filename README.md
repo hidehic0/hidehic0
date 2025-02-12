@@ -5,9 +5,11 @@
 * The editor uses neovim
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hidehic0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![hidehic0's GitHub stats](https://github-readme-stats.vercel.app/api?username=hidehic0)](https://github.com/anuraghazra/github-readme-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=hidehic0)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="left"> 
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidehic0&layout=compact&show_icons=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=hidehic0&show_icons=ture" />
+</p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=hidehic0)](https://github.com/ryo-ma/github-profile-trophy)
 
 ![](https://raw.githubusercontent.com/hidehic0/hidehic0/output/github-contribution-grid-snake.svg)
