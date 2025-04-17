@@ -4,6 +4,13 @@
 * I like competitive programming.  [![hidehico](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhidehico)](https://atcoder.jp/users/hidehico)[![hidehic0](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fcodeforces%2Fjson%2Fhidehic0)](https://codeforces.com/profile/hidehic0)
 * The editor uses neovim
 
+# Links
+- [X](https://x.com/hidehic0_)
+- [Qiita](https://qiita.com/hidehic0)
+- [Zenn](https://zenn.dev/hidehic0)
+- [Blog](https://hidehic0.github.io/blog/)
+- [Library](https://hidehic0.github.io/library/)
+- [Dotfiles](https://github.com/hidehic0/dotfiles)
 
 <p align="left"> 
   <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidehic0&layout=compact&show_icons=true" />
