@@ -6,8 +6,6 @@
 
 # Links
 - [X](https://x.com/hidehic0_)
-- [Qiita](https://qiita.com/hidehic0)
-- [Zenn](https://zenn.dev/hidehic0)
 - [Blog](https://hidehic0.github.io/blog/)
 - [Library](https://hidehic0.github.io/library/)
 - [Dotfiles](https://github.com/hidehic0/dotfiles)
