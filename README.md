@@ -11,8 +11,8 @@
 - [Dotfiles](https://github.com/hidehic0/dotfiles)
 
 <p align="left"> 
-  <img alt="Top Langs" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hidehic0&layout=compact&show_icons=true" />
-  <img alt="github stats" height="200px" src="https://github-readme-stats.vercel.app/api?username=hidehic0&show_icons=ture" />
+  <img alt="Top Langs" height="200px" src="https://github-readme-stats.shion.dev/api/top-langs/?username=hidehic0&layout=compact&show_icons=true" />
+  <img alt="github stats" height="200px" src="https://github-readme-stats.shion.dev/api?username=hidehic0&show_icons=ture" />
 </p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hidehic0)](https://github.com/ryo-ma/github-profile-trophy)
